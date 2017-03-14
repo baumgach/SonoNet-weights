@@ -89,6 +89,10 @@ if __name__ == "__main__":
         std = image_data.std()
         image_data = np.array(255.0*np.divide(image_data - mean, std),
                               dtype=np.float32)
+                              # Note that the 255.0 scale factor is arbitrary
+                              # it is necessary because the network was trained
+                              # like this, but the same results would have been
+                              # achieved without this factor for training.
 
         input_list.append(image_data)
 
