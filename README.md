@@ -8,8 +8,8 @@ Freehand Ultrasound"](https://arxiv.org/abs/1612.05601), arXiv preprint:1612.056
 
 and prior work published here:
 
-Baumgartner et al., "[Real-time standard scan plane detection and localisation in fetal ultrasound
-using fully convolutional neural networks](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_24)", Proc. MICCAI (2016).
+Baumgartner et al., ["Real-time standard scan plane detection and localisation in fetal ultrasound
+using fully convolutional neural networks"](http://link.springer.com/chapter/10.1007/978-3-319-46723-8_24), Proc. MICCAI (2016).
 
 Please acknowledge the first of the two papers above if you end up using the
 these weights for your work.
