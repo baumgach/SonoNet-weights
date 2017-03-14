@@ -1,3 +1,13 @@
+
+"""
+Model definitions for the four networks evaluated in Baumgartner et al.,
+"Real-Time Detection and Localisation of Fetal Standard Scan Planes in 2D
+Freehand Ultrasound", arXiv preprint:1612.05601 (2016).
+
+Author: Christian Baumgartner (c.f.baumgartner@gmail.com)
+Last Update: 14. March 2017
+"""
+
 from lasagne.layers import InputLayer, MaxPool2DLayer, Conv2DLayer, batch_norm
 from lasagne.layers import GlobalPoolLayer, NonlinearityLayer
 from lasagne.nonlinearities import linear, softmax
