@@ -28,3 +28,9 @@ the instructions [here](http://lasagne.readthedocs.io/en/latest/user/installatio
 under the section "Bleeding Edge".
 
 Furthermore, `numpy`, `scipy` are required.
+
+## Demo Video
+
+Demo videos are available on Youtube:
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/yPCvAdOYncQ&t/0.jpg)](http://www.youtube.com/watch?v=yPCvAdOYncQ&t)
