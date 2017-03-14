@@ -29,6 +29,10 @@ under the section "Bleeding Edge".
 
 Furthermore, `numpy`, `scipy` are required.
 
+Once everything is set up you can simply run:
+
+    python example.py 
+
 ## Demo videos
 
 Demo videos are available on Youtube:
