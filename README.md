@@ -29,7 +29,7 @@ under the section "Bleeding Edge".
 
 Furthermore, `numpy`, `scipy` are required.
 
-## Demo Video
+## Demo videos
 
 Demo videos are available on Youtube:
 
