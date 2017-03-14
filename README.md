@@ -33,4 +33,8 @@ Furthermore, `numpy`, `scipy` are required.
 
 Demo videos are available on Youtube:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/yPCvAdOYncQ&t/0.jpg)](http://www.youtube.com/watch?v=yPCvAdOYncQ&t)
+[![Youtube video](http://img.youtube.com/vi/yPCvAdOYncQ/0.jpg)](http://www.youtube.com/watch?v=yPCvAdOYncQ)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yPCvAdOYncQ
+" target="_blank"><img src="http://img.youtube.com/vi/yPCvAdOYncQ/0.jpg"
+alt="Youtube video" width="240" height="180" border="10" /></a>
