@@ -106,7 +106,7 @@ if __name__ == "__main__":
     net = network_builder(input_var, input_size, num_labels=len(label_names))
     read_model(net['output'], '%s.npz' % network_name)
 
-    # Defining the predictino function
+    # Defining the prediction function
     prediction_var = lasagne.layers.get_output(net['output'], deterministic=True)
     pred_and_conf_fn = theano.function(
                             [input_var],
